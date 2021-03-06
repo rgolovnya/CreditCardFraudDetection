@@ -8,7 +8,5 @@ The Credit Card Fraud Detection Problem includes modeling past credit card trans
 Data were taken from https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
-## Goal
-
 The goal of this project is to build a classifier that can detect credit card fraudulent transactions. 
 
